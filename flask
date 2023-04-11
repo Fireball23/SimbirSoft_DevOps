@@ -1,0 +1,2 @@
+1. Для старта приложения были установлены модули SQLAlchemy и WTForms.
+2. Согласно директиве версий для WTForms, был изменен вызов validators.required() на validators.DataRequired() в scripts/forms.py
